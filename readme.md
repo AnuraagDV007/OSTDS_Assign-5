@@ -1,3 +1,5 @@
+## Retail Sales Data Analysis using Apache Spark
+
 ## Introduction to Project
  The goal of this project is to analyze a retail company's sales data using Apache Spark to improve key business aspects such as inventory management, marketing strategies, and customer satisfaction. The project includes several key tasks:
 
@@ -30,3 +32,8 @@
 - Optimization
 - Reporting
 
+**Author -**
+
+Name - Anurag Vaidya
+Course - OSTDS
+Institute - SICSR
